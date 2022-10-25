@@ -140,3 +140,41 @@ select.nascimento {
     float: left;
     margin-top: 7px;
 }
+
+.input-radio {
+    margin: 8px 0px;
+    float: left;
+    width: 50%;
+}
+
+.input-radio h2 {
+    display: inline-block;
+    font-size: 23px;
+}
+
+.input-radio input[type=radio] {
+    display: inline-block;
+    width: auto !important;
+}
+
+section.linguas {
+    padding: 30px 0;    
+}
+
+section.linguas a {
+    font-size: 14px;
+    color:#365899;
+    text-decoration: none;
+}
+
+section.linguas a.selected-lingua {
+    color: #737373;
+}
+
+section.linguas .center{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
