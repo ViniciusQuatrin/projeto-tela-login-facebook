@@ -162,6 +162,7 @@ section.linguas {
 }
 
 section.linguas a {
+    padding-right: 15px;
     font-size: 14px;
     color:#365899;
     text-decoration: none;
@@ -178,3 +179,8 @@ section.linguas .center{
     border-bottom: 1px solid #ccc;
 }
 
+section.linguas .centered {
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 10px;
+}
